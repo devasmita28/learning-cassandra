@@ -1,14 +1,14 @@
 # Learning Cassandra
 This repository contains all my learning content on cassandra.
 
-### Link to install cassandra on windows as one node cluster :
+### Link to install Cassandra on windows as one node cluster :
 
     - https://medium.com/@sushantgautam_930/simple-way-to-install-cassandra-in-windows-10-6497e93989e6
 
     - https://www.youtube.com/watch?v=EEXtVn3zAqc
 
 
-### To run cassandra server (Run as admin) :
+### To run Cassandra server (Run as admin) :
 
     cd C:\Program Files\apache-cassandra-3.11.6\bin
     cassandra.bat -f
